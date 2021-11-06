@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Update Version</string>
+    <string name="app_version">Version : 1.0</string>
+    
+    <!-- Download upgrade notification -->
+    <string name="actions_update">Update Available</string>
+    <string name="update_dialog_msg">Update Version :</string>
+    
+    <string name="btn_update">Update</string>
+    <string name="upgrade_is_loading">Now is Download..</string>
+    <string name="has_downed">has Downloaded</string>
+    <string name="downed_complete">has Downloaded Successfully</string>
+    <string name="download_fail">Downloaded fail</string>
+    <string name="please_try_later">Please Try Again!</string>
+    <string name="start_download">Start Download</string>
+    <string name="stop_download">Stop Download</string>
+    <string name="delete_apk_file">Delete Apk file</string>
+    <string name="some_error_occurred">Some error occurred</string>
+    <string name="activity_null_intent">Update</string>
+    <string name="activity_not_found">"Application is not installed on your phone."</string>
+</resources>
